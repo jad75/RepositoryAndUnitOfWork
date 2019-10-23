@@ -1,0 +1,12 @@
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\bin\Debug\RepositoryAndUnitOfWork.exe.config
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\bin\Debug\RepositoryAndUnitOfWork.exe
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\bin\Debug\RepositoryAndUnitOfWork.pdb
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\bin\Debug\EntityFramework.dll
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\bin\Debug\EntityFramework.xml
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\obj\Debug\RepositoryAndUnitOfWork.csprojAssemblyReference.cache
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\obj\Debug\RepositoryAndUnitOfWork.csproj.CoreCompileInputs.cache
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\obj\Debug\RepositoryAndUnitOfWork.csproj.CopyComplete
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\obj\Debug\RepositoryAndUnitOfWork.exe
+c:\users\jhrio\source\repos\ConsoleRepositoryAndUnitOfWork\RepositoryAndUnitOfWork\obj\Debug\RepositoryAndUnitOfWork.pdb
